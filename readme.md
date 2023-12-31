@@ -1,0 +1,1 @@
+# Currently, supports only WinSock. No *nix-sockets support
